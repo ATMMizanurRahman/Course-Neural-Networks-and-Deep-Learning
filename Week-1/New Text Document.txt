@@ -1,0 +1,26 @@
+1. Neural Network hoilo , size ke input dibo, Output e pabo amra price.
+etai ekta neuron. Erkomo onkgula neuron eksathe hoile otake amra
+neural network bolbo.
+
+2. Price asole onekgula upor depedn kore.
+family size,school quality,waklabilty.
+fam size abar size+bedrooms
+scl quality abar walth+zipcode
+Emne Hoite thake. So, evabe 4 ta x er base kore 
+amra ekta y , mane amader price pai
+
+3.Actual otake represent kora hoi evabe. jodio protom circle ta x1-x4 sobar
+upor depend kore na, but deyar smy sobar sathe connection deo hoi..
+
+4.Prothom 2 tar Jonno ---> Standard Neural network
+  imager er jnno      ---> Convolutional neural network
+  Sequence data er jnno mane audio --->RNN
+  last er tar jnno --> Hybrid Network
+
+
+6. Structured data te datbase theke perfectly.
+   Un a audio.image,text. Ekhane Pixel Value theke info neya hoi.
+   Neural Network er jnno Com Unstructured data niye valo kajkrte partese
+
+
+7. large NU er jnno Performance onek besi ase
